@@ -6,7 +6,7 @@ Sou engenheira com formação em Controle e Automação, Segurança do Trabalho 
 
 ---
 
-## 💻 Tech Stack
+## 💻 Linguagens e Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,7 +35,7 @@ Sou engenheira com formação em Controle e Automação, Segurança do Trabalho 
 
 ## 💼 Experiência
 
-- 👷‍♀️ **Prestação de Serviços de Engenharia** - Maz Engenharia (2023 - Presente)
+- 💡 **Prestação de Serviços de Engenharia** - Maz Engenharia (2023 - Presente)
 - 💡 **Prestadora de Serviços Freelance** (2008 - Presente)
 
 ---
